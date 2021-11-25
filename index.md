@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guia Profesorados de CCPEMS - no oficial
+title: Guia para sobrevivir a los Profesorados del CCPEMS
 ---
 
 * Cómo inscribirse
